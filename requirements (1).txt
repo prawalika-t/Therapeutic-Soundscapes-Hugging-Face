@@ -1,0 +1,13 @@
+gradio
+streamlit
+torch
+librosa
+pydub
+matplotlib
+soundfile
+transformers
+tqdm
+numpy
+scipy
+pandas
+ffmpeg-python
